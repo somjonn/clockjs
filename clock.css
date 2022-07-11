@@ -1,0 +1,23 @@
+body{
+   background-image: linear-gradient(to right,  #fdccf1, #f8edfb);
+
+}
+
+.wrapper{
+}
+.clock{
+   position: relative;
+   transform: translateX(-50%) translateY (-50%);
+   color: #000000;
+   font-size: 60px;
+   letter-spacing: 7px;
+   top: 25%;
+   left: 30%;
+}
+p{
+   position: relative;
+   font-size: 50px;
+   color: rgb(0, 0, 0);
+   top: 20%;
+   left: 30%;
+}
